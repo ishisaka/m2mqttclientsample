@@ -21,3 +21,9 @@ M2MqttはNuGetでインストールします。
 ## 動作環境
 
 Windows 8.1 Proでテストをしています。
+
+## ソリューションの構成
+
+* CsPubClient パブリッシュ側のサンプル
+* CsSubClient サブスクライブ側のサンプル
+
